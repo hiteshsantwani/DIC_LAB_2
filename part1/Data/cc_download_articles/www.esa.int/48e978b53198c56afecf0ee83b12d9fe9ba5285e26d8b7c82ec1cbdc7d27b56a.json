@@ -1,0 +1,17 @@
+{
+    "authors": [],
+    "date_download": "2019-04-03 14:30:41+00:00",
+    "date_modify": null,
+    "date_publish": "2019-04-02 00:00:00",
+    "description": "\\nThe European Data Relay System (EDRS)\\xe2\\x80\\x94dubbed the \\xe2\\x80\\x9cSpaceDataHighway\\xe2\\x80\\x9d by its private operator, Airbus\\xe2\\x80\\x94has passed another milestone.\\n",
+    "filename": "http%3A%2F%2Fwww.esa.int%2FOur_Activities%2FTelecommunications_Integrated_Applications%2FFirst_satellite_in_European_SpaceDataHighway_forges_20_000_successful_laser_links.json",
+    "image_url": "http://www.esa.int/var/esa/storage/images/esa_multimedia/images/2018/10/edrs-a_in_geostationary_orbit/17721052-1-eng-GB/EDRS-A_in_geostationary_orbit_large.jpg",
+    "language": "en",
+    "localpath": null,
+    "source_domain": "www.esa.int",
+    "text": "First satellite in European SpaceDataHighway forges 20,000 successful laser links\nThe European Data Relay System (EDRS)\\xe2\\x80\\x94dubbed the \\xe2\\x80\\x9cSpaceDataHighway\\xe2\\x80\\x9d by its private operator, Airbus\\xe2\\x80\\x94has passed another milestone.\nEDRS-A, the first satellite in what will eventually be a global constellation, has made its 20,000th successful optical link to its customer satellites since its launch in January 2016, marking a world first in laser communication in space.\nThis milestone provides further evidence that ESA\\xe2\\x80\\x99s Partnership Projects initiative successfully develop sustainable end-to-end systems, right up to in-orbit validation.\nThe system is a public-private partnership between ESA and Airbus, with significant investment by the German Space Administration DLR.\nSatellites that are used to monitor the Earth operate from low-Earth orbits and usually relay the information they have acquired only when they are in a direct line-of-sight with a ground antenna.\nEDRS-A rides much higher in the sky, where it can maintain a continuous connection with its ground stations and an almost permanent one with the low-Earth orbiting satellites. The system uses secure laser communication to receive data from the low-Earth orbiting satellites and beams the information back to Earth via radio frequency.\n\\xe2\\x80\\x9cEarth observation satellites have orbits that mean having to wait up to 100 minutes to transmit information to the ground. That can be a problem when you need information immediately, for example, when trying to provide aid during flooding or wild fires, or help ships navigating through ice sheets,\\xe2\\x80\\x9d says Michael Witting, EDRS project manager at the European Space Agency.\n\\xe2\\x80\\x9cEDRS provides data to the ground rapidly because of its bird\\xe2\\x80\\x99s eye view from its geostationary orbit. Its point-to-point transmission using cutting-edge laser communication technology means data can be transmitted at very high speeds, and it is hard to jam the signal or to eavesdrop on it. EDRS is another example of how ESA\\xe2\\x80\\x99s Partnership Projects federate industry around large-scale programmes, achieving a competitive leap forward and economic impact.\\xe2\\x80\\x9d",
+    "title": "First satellite in European SpaceDataHighway forges 20,000 successful laser links",
+    "title_page": null,
+    "title_rss": null,
+    "url": "http://www.esa.int/Our_Activities/Telecommunications_Integrated_Applications/First_satellite_in_European_SpaceDataHighway_forges_20_000_successful_laser_links"
+}

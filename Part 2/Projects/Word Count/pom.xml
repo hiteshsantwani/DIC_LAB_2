@@ -1,0 +1,38 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>WordCount</groupId>
+  <artifactId>WCMapperReducer</artifactId>
+  <version>0.0.2-SNAPSHOT</version>
+  <name>Mapper for word count DIC Lab 2</name>
+  <description>Word count mapper</description>
+  <build>
+    <sourceDirectory>src</sourceDirectory>
+    <plugins>
+      <plugin>
+        <artifactId>maven-compiler-plugin</artifactId>
+        <version>3.8.0</version>
+        <configuration>
+          <source>1.8</source>
+          <target>1.8</target>
+        </configuration>
+      </plugin>
+    </plugins>
+  </build>
+  
+  
+  <dependencies>
+  	<!-- Hadoop Core -->
+                <dependency>
+                        <groupId>org.apache.hadoop</groupId>
+                        <artifactId>hadoop-core</artifactId>
+                        <version>1.2.1</version>
+                </dependency>
+    <!-- Hadoop Mapreduce Client Core -->
+                <dependency>
+                        <groupId>org.apache.hadoop</groupId>
+                        <artifactId>hadoop-mapreduce-client-core</artifactId>
+                        <version>2.7.1</version>
+                </dependency>
+  </dependencies>
+  
+</project>
