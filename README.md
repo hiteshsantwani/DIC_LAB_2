@@ -11,3 +11,6 @@ The Task of the Project:
 3. Provision the AWS GLU ETL pipeline and AWS EMR cluster for Map Reduce jobs.
 4. Design the interactive Web interface for Visualising the Big Data.
 5. Design the AWS Architecture to convert the project in to Production Ready state.
+
+
+![Architecture Diagram](http://Production_Ready_Architecture.jpg)
