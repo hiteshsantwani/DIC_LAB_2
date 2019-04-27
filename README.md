@@ -4,6 +4,7 @@
 
 [Code and Deliverables](https://drive.google.com/file/d/1nukTHkDrYWD6-Zx-FgJg9EER7pu5HbmQ/view?usp=sharing)
 
+[Example: Current Trends in Europe](https://s3.amazonaws.com/bigdatavisualisationeurope/test.html)
 
 The Task of the Project:
 1. first write the python scripts to collect the Data From NYT And Twitter API.
