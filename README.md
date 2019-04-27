@@ -1,4 +1,4 @@
-# DIC_LAB_2
+# Big Data Architecture for Analysing the Current trends in Any Topic
 
 [Demo](https://buffalo.box.com/s/18efirpi6smecup0rt2a3ulndsl0qxzt)
 
