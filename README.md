@@ -13,4 +13,4 @@ The Task of the Project:
 5. Design the AWS Architecture to convert the project in to Production Ready state.
 
 
-![Architecture Diagram](http://Production_Ready_Architecture.jpg)
+![Architecture Diagram](Production_Ready_Architecture.jpg)
